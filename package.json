@@ -1,0 +1,20 @@
+{
+  "name": "tactyl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshishP0543/Tactyl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshishP0543/Tactyl/issues"
+  },
+  "homepage": "https://github.com/AshishP0543/Tactyl#readme"
+}
